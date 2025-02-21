@@ -1,6 +1,7 @@
 #include<iostream>
 #include<vector>
 using namespace std;
+// https://www.naukri.com/code360/problems/ayush-and-ninja-test_1097574?source=youtube&campaign=love_babbar_codestudio2&utm_source=youtube&utm_medium=affiliate&utm_campaign=love_babbar_codestudio2&leftPanelTabValue=PROBLEM
 bool isPossible(vector<int>& time, int days, int chapters, long long int mid) {
     int daysCount = 1, timeReq = 0;
     for (int i = 0; i < time.size(); i++) {
