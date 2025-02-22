@@ -2,6 +2,7 @@
 #include<vector>
 #include <bits/stdc++.h>
 using namespace std;
+// https://r.search.yahoo.com/_ylt=AwrKDpMjW7lnHQIAz127HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1741410340/RO=10/RU=https%3a%2f%2fwww.spoj.com%2fproblems%2fEKO%2f/RK=2/RS=pMJU7.x6uUi2rY5bRG8g6TsmIMI-
 bool canCut(vector<int> &trees, int treesCount, int wood, long long mid) {
     long long woodCollected = 0;
     for (int i = 0; i < trees.size(); i++) {
