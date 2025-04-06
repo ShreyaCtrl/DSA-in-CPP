@@ -18,7 +18,7 @@ int main() {
 
     cout << "\nElement at index 1: " << dq.at(1);
     cout << "\nElement at index 1: " << dq[1];
-
+    
     cout << "\nFirst element: " << dq.front();
     cout << "\nLast element: " << dq.back();
 

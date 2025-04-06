@@ -24,5 +24,5 @@ int main() {
         cout << i << " ";
     }
 
-    // Sorting algorithm in C++ STL is intro sort which is a hybrid of quick sort, heap sort and insertion sort
+    // Sorting algorithm in C++ STL is intro sort which is a hybrid of quick sort, heap sort and insertion sort 
 }
